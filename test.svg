@@ -1,0 +1,16 @@
+<svg width="1777" height="1163" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+<defs>
+<clipPath id="clip0">
+<rect x="881" y="597" width="1777" height="1163"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0)" transform="translate(-881 -597)">
+<rect x="883.5" y="599.5" width="1772" height="1158" stroke="#FFFFFF" stroke-width="4.58333" stroke-miterlimit="8" fill="#FFFFFF"/>
+<rect x="1259.5" y="699.5" width="1011" height="926" stroke="#2F528F" stroke-width="4.58333" stroke-miterlimit="8" fill="#4472C4"/>
+<text font-family="Arial,Arial_MSFontService,sans-serif" font-weight="400" font-size="83" transform="matrix(1 0 0 1 2302.79 795)">Text 1
+<tspan id="1" font-size="83" x="0" y="793">Text 2</tspan>
+<tspan id="2" font-size="83" x="-1276.3" y="793">Text 3</tspan>
+<tspan id="3" font-size="83" x="-1276.3" y="0">Text 4</tspan>
+</text>
+</g>
+</svg>
